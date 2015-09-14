@@ -6,7 +6,7 @@
 
  Soll für Geschäftsleitung 4 Funktionen erfüllen:
  * __Planung:__ wichtig für Entscheidungen, soll Produkt gekauft, oder selbst
-    produzuert werden ? Lohnt sich eine Investition ? Welche Preise können wir verlangen ?
+    produziert werden ? Lohnt sich eine Investition ? Welche Preise können wir verlangen ?
 
  * __Verhaltenssteuerung:__ sollten Mitarbeiter nicht im Interesse des Unternehmens
     handeln, kann geprüft werden, wie effektiev sie wirtschaften. Ggf.
@@ -70,8 +70,52 @@ Erhöhen/vermindern den Bestand an Bargeld und kurzfristig verfügbarem Bankguth
 ### Aufwendungen VS Kosten
 Kosten sind Aufwendugnen, die in einem betrieblichen Leistungsprozess entstehen.
 
+## Kostenbegriffe
+Es gibt viele unterschiedliche Kosten.
 
+__variable Kosten__ abhängig von Kosteneinflussgröße (meistens Produktionsmenge). Entstehen durch Materialkosten, Arbeitsaufwand.
 
+__fixe Kosten__ unabhngig von Kosteneinflussgröße, diese Kosten bestehen auch,
+nicht produziert wird (z.B. Miete für Lagerhallen, fixe Gehälter)
+
+__Grenzkosten__ sind Kosten, die anfallen, wenn "zusätzlich" produziert werden soll.
+Wenn noch Maschinenkapazität und genug Personal vorhanden ist, dann gilt
+`Grenzkosten = variable Kosten der zusätzliche zu produzierenden Güter`.
+
+Wenn Maschinen und Personal hingegehn ausgelastet ist, dann gilt:
+`Grenzkosten = variable Kosten + (Abschreibungskosten neuer Maschine / zusätzliches
+    Personal)`
+
+Grsamtkosten müssen nicht immer steigen. Z.B. können durch zusätzliche Produziertes
+beansprucht werden.
+
+__Grsamtkosten & Stückkosten__
+```
+x = Mange der produzierten Güter
+Kges = Gesamtkosten
+Kstk = Kosten pro Stück
+Kvar = variable Kosten pro Stück
+Kfix = Fixkosten
+
+Kges = Kvar * x + Kfix
+Kstk = Kges / x = Kvar + Kfix/x
+```
+Gesamtkosten gibt die gesamten Kosten zur
+Produktion (und Verkauf ?) von `x` Gütern an.
+
+Stückkosten ergeben sich aus variablen Kosten, zudem
+werden die fixen Kosten auf alle `x` produzierten Güter
+verteilt.
+
+__Einzel- & Gemeinkosten__
+* Einzelkosten könne direkt einem Kostenobjekt (Produkt,
+Auftrag/Bereich) zugewiesen werden.
+* Echte Gemeinkosten werden von mehreren Kostenobjekten
+verursacht, z.B. Miete für komplette Halle.
+* Unechte Gemeinkosten könnten theoretisch zugeordnet werden. Zuordnung ist aber zu aufwändig (z.B. Stromverbrauch, Kosten für Nägel pro Produkt...)
+
+__Primär- & Sekundärkosten__
+Primärkosten werden erstmals in der Kostenrechnung erfasst.
 # Fragen (und Lernziele)
 * Was sind Funktionen der Kostenrechnung ?
     _Planung, Verhaltenssteuerung, Kontrolle, Dokumentation_
