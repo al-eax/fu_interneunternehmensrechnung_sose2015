@@ -115,11 +115,64 @@ verursacht, z.B. Miete für komplette Halle.
 * Unechte Gemeinkosten könnten theoretisch zugeordnet werden. Zuordnung ist aber zu aufwändig (z.B. Stromverbrauch, Kosten für Nägel pro Produkt...)
 
 __Primär- & Sekundärkosten__
-Primärkosten werden erstmals in der Kostenrechnung erfasst.
+* Primärkosten werden erstmals in der Kostenrechnung erfasst. Sind meist Material-
+oder Personalkosten.
+* Sekundärkosten entstehen im Unternehmen, innerbetriebliche Kosten
+
+__ist-, normal-, plan,- Sollkosten__
+* Istkosten: tatsächlich angefallene Kosten nach abgelaufener Periode
+* Normalkosten: genormte Kosten anhand von Standarts oder Durchschnittswerten
+* Plankosten: erwartete, geplante, zukünftige Kosten
+* Sollkosten: vorgegebene Kosten.
+
+## Systeme der Kostenrechnung
+Wird nach Vollkosten- und Teilkostenrechnung untersdchieden:
+* Vollkostenrechnung: Kalulation, Kostenstellenabrechnung, Kostenartenrechnung
+* Teilkostenrechnung: Grenzkosten-, Stückkostenrechnung, Deckungsbeitragsrechnung
+
+zudem wird nach Kostenobjekt unterschieden:
+Einzelne Produkte, ganze Azfträge, Geschäftsbereiche, Produktgruppen,
+Gesamtunternehen.
+
+## System der Kostenzuweisung
+Problem: sachgerechte Zuteilung von Kosten auf Kostenobjekte.
+
+Prinzipien:
+* __Verursachungsprinzip:__ einem Kostenobjekt werden nur die Kosten zugewiesen,
+    die es selbst verursacht (z.B. nur variable Kosten)
+
+* __Beanspruchungsprinzip:__ Output soll gesteigert werden, dies führt zu höherem
+    Güterverbrauch. Kosten sollen jedoch nicht steigen.
+
+* __Verteilungsprinzip:__
+* Durchschnittsprinzip, Tragfähigkeitsprinzip
+
 # Fragen (und Lernziele)
 * Was sind Funktionen der Kostenrechnung ?
+
     _Planung, Verhaltenssteuerung, Kontrolle, Dokumentation_
+
 * Wie sind Kosten definiert ?
+
     _Sachzielbezogener, bewerteter Güterverbrauch_
+
 * Was unterscheidet Kosten von Aufwendungen & Auszahlungen ?
+
     _Auswendungen meist periodenfremd, sachzielfremd, außerordentlich. Kalkulatorische Kosten sind keine Aufwendungen, da nicht in GVU enthalten_
+
+* Welche Arten von Kosten gibt es ?
+
+    _Sehr viele: Primär-, Sekundär-, Ist-, Normal-, Plan-, Soll-, Einzel-, Gemein-,
+    Gesamt-, Stück-, Grenz-, variavle, fixe Kosten..._
+
+* Welche Kosten werden manchmal fälschlicherweise nicht beachtet ?
+
+ _Sunk costs ?_
+
+* Welche Systeme der Kostenrechnung kann man unterscheiden ?
+   * Vollkostenrechnung: Kalulation, Kostenstellenabrechnung, Kostenartenrechnung
+   * Teilkostenrechnung: Grenzkosten-, Stückkostenrechnung, Deckungsbeitragsrechnung
+
+* Welche Prinzipien der Kostenzuweisung kann man unterscheiden ?
+
+ _foobar_
